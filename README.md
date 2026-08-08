@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=36&duration=3000&pause=2000&color=42A5F5&center=true&vCenter=true&width=600&lines=✦+Fahd+Fayed+✦" alt="Fahd Fayed"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=36&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Fahd+Fayed&repeat=true" />
 </p>
-
 
 ###
 
