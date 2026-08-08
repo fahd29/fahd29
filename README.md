@@ -1,18 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Hi%2C%20I'm%20Fahd%20Fayed&fontSize=35&fontColor=42A5F5&animation=twinkling&stroke=42A5F5&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=150&section=header&text=Hi%2C%20I'm%20Fahd%20Fayed&fontSize=35&fontColor=42A5F5&animation=twinkling" />
 </p>
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-</div>
-
 ###
 
 <h2 data-importer="text" align="left">Tools&Platforms</h2>
