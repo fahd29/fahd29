@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./fahd-fayed-shimmer-final.gif" alt="Fahd Fayed">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=34&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&repeat=true&lines=Hi+I'm+Fahd+Fayed" alt="Hi, I'm Fahd Fayed" />
 </p>
+
 
 ###
 
