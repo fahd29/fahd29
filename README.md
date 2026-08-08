@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Hi%2C%20I'm%20Fahd%20Fayed&fontSize=35&fontColor=42A5F5&animation=fadeIn&stroke=42A5F5&strokeWidth=1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=1&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fahd+Fayed" />
 </p>
 ###
 
