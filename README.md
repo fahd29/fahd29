@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=150&section=header&text=Hi%2C%20I'm%20Fahd%20Fayed&fontSize=35&fontColor=42A5F5&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&text=Hi%2C%20I'm%20Fahd%20Fayed&fontSize=35&fontColor=42A5F5&animation=twinkling" />
 </p>
-###
-
-<h2 data-importer="text" align="left">Tools&Platforms</h2>
 
 ###
 
