@@ -1,14 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=1&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fahd+Fayed" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Hi%2C%20I'm%20Fahd%20Fayed&fontSize=35&fontColor=42A5F5&animation=twinkling&stroke=42A5F5&strokeWidth=1" />
 </p>
-###
-
-<h3 data-importer="text" align="left">💻 CS Graduate | 📱 Flutter Developer<br>🚀 Turning ideas into apps</h3>
-
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
 ###
 
 <div data-importer="techs" align="left">
