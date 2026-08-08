@@ -1,8 +1,6 @@
-<h1 align="center">
-  <marquee behavior="alternate" direction="left" scrollamount="2" width="500">
-    ✦ Fahd Fayed ✦
-  </marquee>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=36&duration=3000&pause=2000&color=42A5F5&center=true&vCenter=true&width=600&lines=✦+Fahd+Fayed+✦" alt="Fahd Fayed"/>
+</p>
 
 
 ###
