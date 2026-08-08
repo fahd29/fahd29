@@ -3,6 +3,7 @@
 </p>
 
 ###
+<h2 data-importer="text" align="left">about me</h2>
 
 <h3 data-importer="text" align="left">💻 CS Graduate | 📱 Flutter Developer<br>🚀 Turning ideas into apps</h3>
 
