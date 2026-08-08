@@ -1,6 +1,89 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=34&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&repeat=true&lines=Hi+I'm+Fahd+Fayed" alt="Hi, I'm Fahd Fayed" />
-</p>
+<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#42A5F5"/>
+      <stop offset="50%" stop-color="#7C4DFF"/>
+      <stop offset="100%" stop-color="#42A5F5"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="50%" stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="textClip">
+      <text
+        x="350"
+        y="78"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="52"
+        font-weight="700">
+        Fahd Fayed
+      </text>
+    </clipPath>
+  </defs>
+
+  <!-- Main Name -->
+  <text
+    x="350"
+    y="78"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="52"
+    font-weight="700"
+    fill="url(#textGradient)"
+    filter="url(#glow)">
+    Fahd Fayed
+  </text>
+
+  <!-- Moving Shine -->
+  <rect
+    x="-200"
+    y="20"
+    width="180"
+    height="70"
+    fill="url(#shine)"
+    opacity="0.7"
+    clip-path="url(#textClip)">
+    <animate
+      attributeName="x"
+      from="-200"
+      to="720"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtle underline -->
+  <rect
+    x="210"
+    y="92"
+    width="280"
+    height="2"
+    rx="1"
+    fill="url(#textGradient)"
+    opacity="0.7">
+    <animate
+      attributeName="width"
+      values="180;280;180"
+      dur="3s"
+      repeatCount="indefinite"/>
+    <animate
+      attributeName="x"
+      values="260;210;260"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 
 ###
