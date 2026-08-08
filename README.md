@@ -1,28 +1,5 @@
 <p align="center">
-  <svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00F7FF"/>
-        <stop offset="45%" stop-color="#00F7FF"/>
-        <stop offset="50%" stop-color="#FFFFFF"/>
-        <stop offset="55%" stop-color="#00F7FF"/>
-        <stop offset="100%" stop-color="#00F7FF"/>
-        <animate attributeName="x1" from="-100%" to="100%" dur="2.5s" repeatCount="indefinite"/>
-        <animate attributeName="x2" from="0%" to="200%" dur="2.5s" repeatCount="indefinite"/>
-      </linearGradient>
-    </defs>
-
-```
-<text x="50%" y="60%" text-anchor="middle"
-      font-family="Arial, sans-serif"
-      font-size="36"
-      font-weight="bold"
-      fill="url(#shine)">
-  Fahd Fayed ✨
-</text>
-```
-
-  </svg>
+  <img src="./fahd-fayed-shimmer-final.gif" alt="Fahd Fayed">
 </p>
 
 ###
