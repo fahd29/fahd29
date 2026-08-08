@@ -1,4 +1,6 @@
-<h3 data-importer="text" align="center">My name is fahd fayed</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Hi%2C%20I'm%20Fahd%20Fayed&fontSize=38&fontColor=42A5F5&animation=twinkling&gradientColor=42A5F5,9C6BFF" />
+</p>
 
 ###
 
