@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=36&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Fahd+Fayed&repeat=true" />
+  <marquee behavior="alternate" direction="left" scrollamount="2" width="600">
+    <h2>Hi, I'm Fahd Fayed</h2>
+  </marquee>
 </p>
-
 ###
 
 <h3 data-importer="text" align="left">💻 CS Graduate | 📱 Flutter Developer<br>🚀 Turning ideas into apps</h3>
